@@ -18,8 +18,6 @@ software & backend developer, systems builder & ml enthusiast. building systems 
 
 ### activity
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=tr1xdev&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  </a>
-</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=tr1xdev&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</a>
